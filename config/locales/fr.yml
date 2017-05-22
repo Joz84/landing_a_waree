@@ -1,0 +1,29 @@
+fr:
+  pages:
+    title:
+      title_html: "<strong>LE LINKEDIN</strong><br>DE LA GÉNÉRATION Z"
+      # punshline: "AVEC COMME TERRAIN DE JEU L'UNIVERS YOUTUBE"
+      punshline: "SOIS L'UN DES PREMIERS À TESTER L'APPLICATION !"
+    concept:
+      title_html: "C'EST QUOI EXATEMENT ?"
+      description_html: "Un lieu fait rien que pour toi, qui te permettra de créer et d'apprendre en toute liberté avec des <strong>défis personnalisés</strong>.
+                                  <br><br>
+                                  Grâce au médium <strong>vidéo</strong> tu pourras choisir de monter ou non les talents à la <strong>communauté de warees</strong>.
+                                  <br><br>
+                                  Le plus ? Grâce à un passeport labelisé et reconnu, tu pourras mettre en avant <strong>tes soft-skills</strong> pour ton recrutement universitaire ou professionnel."
+
+    cta:
+      title_html: "REJOINS<br>LA COMMUNAUTÉS<br>DES WAREES"
+      button: "C'EST PAR ICI"
+    email:
+      title_html: "FAIS-TOI ENTENDRE !<br>FAIS LA RÉVOLUTION<br>DE L'APPRENTISSAGE<br>AVEC NOUS !"
+      text_html: "CE SUJET T'INSPIRE ?<br>N'HESITE PAS À NOUS ENVOYER UN MAIL À<br><strong>%{email}</strong><br>JUSTE ICI ;)"
+      button: "ENVOYER >"
+    team:
+      title_html: "ÇA C'EST NOUS ! <strong><br>L'équipe qui te veut du bien ;)</strong>"
+      text_html: "Notre équipe s'est rencontrée et réunie autour de plusieurs valeurs : <br>
+                  l'universalité, la bienveillance, l'épanouissement,
+                  le choix de vie et anticonformisme ! <br>
+                  A travers cette application web nous souhaitons transmettre ces valeurs."
+
+

@@ -4,6 +4,48 @@
  * Feel free to change them and create your own
  * ------------------------------------- */
 
+body {
+  color: black;
+}
+h1 {
+  // font-size: 50px;
+  font-size: 35px;
+  font-weight: 900;
+  strong {
+    // font-size: 80px;
+    font-size: 50px;
+    font-weight: 900;
+  }
+}
+h2 {
+  // font-size: 40px;
+  font-size: 35;
+  font-weight: 900;
+}
+h3 {
+  // font-size: 45px;
+  font-size: 35px;
+  font-weight: 300;
+  strong {
+    font-weight: 900;
+  }
+}
+p {
+  // font-size: 25px;
+ font-size: 20px;
+}
+
+.div-center {
+  display: flex;
+  justify-content: center;
+}
+// .container-email {
+//   position: relative;
+//   img {
+//     position: absolute;
+//     right: 0px
+//   }
+// }
 // Paddings
 .padded {
   padding-top: 5em;
@@ -23,3 +65,4 @@
 .bg-dark-blue {
   background: #3b5998;
 }
+
